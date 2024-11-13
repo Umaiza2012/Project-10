@@ -1,0 +1,28 @@
+/*Selector (css syntax)*/
+a:hover
+{
+color:Yellow
+}
+li::before
+{
+    content:"✨"
+}
+.c1::first-letter
+{
+ font-size: 50px;
+}
+.c2::first-letter
+{
+    font-size:50px
+}
+ .c3::after
+{
+    content:"📌"
+}
+.c4::after {
+    content: "📌"
+}
+.c5::after {
+    content: "📌"
+}
+
